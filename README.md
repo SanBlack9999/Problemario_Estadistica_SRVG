@@ -1,0 +1,2 @@
+# Problemario_Estadistica_SRVG
+Respuestas Problemario Santiago Ronaldo Vazquez Gutierrez
